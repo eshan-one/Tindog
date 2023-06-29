@@ -1,21 +1,17 @@
-# co2af4e5181574f76c956f724
+# TINDOG 
+## Tindog is a functional app similar to Tinder except it is for Dogs hence the name 
+### Project Description
+When a user clicks on either the cross or heart button a new dog profile is rendered 
 
-Quick start:
+## [Link to the Project](https://t.co/qWqdWlOTjI)
 
-```
-$ npm install
-$ npm start
-````
+### For a better user experience try viewing this link on your mobile phone
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+![Tindog-1](https://github.com/eshan-one/Tindog/assets/108228113/2c2549b9-802b-4a42-bf31-b81dc3dfe8d1)
+------
+![tindog-3](https://github.com/eshan-one/Tindog/assets/108228113/3b65881c-de78-4025-ac1e-b5201bca3dd6)
+-------
+![tindog-teddy](https://github.com/eshan-one/Tindog/assets/108228113/83983012-be14-4f3a-bc72-ea47c7af1cb5)
+-------
+![Tindog-Final](https://github.com/eshan-one/Tindog/assets/108228113/c55a514f-7468-45e4-a950-5105b8b872d6)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
